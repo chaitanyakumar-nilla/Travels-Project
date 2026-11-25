@@ -5,7 +5,7 @@ import java.time.LocalDate;
 public class Journey {
     private LocalDate journeyDate;
     private int numberOfPassengers;
-
+	// welcome to journey class
     public Journey(LocalDate journeyDate, int numberOfPassengers) {
         this.journeyDate = journeyDate;
         this.numberOfPassengers = numberOfPassengers;
